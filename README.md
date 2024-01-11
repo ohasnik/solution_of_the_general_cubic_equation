@@ -1,8 +1,13 @@
 # Solution of the general cubic equation
 
+## Requirements
+* Operating system: Linux or Windows (Loinux is recommended)
+* Python version: 3.10 or higher
+* Pip packages: SymPy
+
 ## Installation
 **This guide is intended for Linux, it may differ for other operating systems.**
-* Install sympy
+* Install SymPy
 
       pip install sympy
 
