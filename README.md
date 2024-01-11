@@ -4,3 +4,8 @@
 * Install sympy
 
     pip install sympy
+
+* Download main.py
+* Run main.py
+
+      python3 main.py
