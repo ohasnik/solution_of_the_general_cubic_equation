@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from sympy import symbols, Eq, solve
 
 print("Solution of the general cubic equation ax^(3) + bx^(2) + cx + d = 0")
