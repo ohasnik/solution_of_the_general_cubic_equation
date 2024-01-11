@@ -1,7 +1,7 @@
 # Solution of the general cubic equation
 
 ## Requirements
-* Operating system: Linux or Windows (Loinux is recommended)
+* Operating system: Linux or Windows (Linux is recommended)
 * Python version: 3.10 or higher
 * Pip packages: SymPy
 
