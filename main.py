@@ -5,7 +5,7 @@ from sympy import symbols, Eq, solve
 print("Solution of the general cubic equation ax^(3) + bx^(2) + cx + d = 0")
 print("(c) 2024 Ondřej Hasník - ondhas SOFTWARE - All rights reserved")
 print("This program is published under the MIT license: https://mit-license.org/")
-print("The source code is available at: https://github.com/ondhas/solution_of_the_general_cubic_equation")
+print("The source code is available at: https://github.com/ondrejhasnik/solution_of_the_general_cubic_equation")
 print("Please report errors to ondhas@skiff.com")
 
 
